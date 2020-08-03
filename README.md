@@ -1,5 +1,5 @@
 # ClipSharer
-Posts pictures from your clipboard Discord
+Posts pictures from your clipboard to Discord
 
 To use, simply clone/download the repository, and add two files:
 
